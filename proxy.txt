@@ -1,0 +1,2 @@
+username:password@hostname:port -----> IF PREMIUM PROXY
+hostname:port ------> IF OPEN PROXY
